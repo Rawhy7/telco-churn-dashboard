@@ -1,3 +1,3 @@
-this telecom churn dashboard for DEOI project 
-made it by:
-1- Abdelrahaman Rawhy >> Rawhy7
+This telecom churn dashboard for DEOI project 
+made it by >>
+ Abdelrahaman Rawhy >> Rawhy7
